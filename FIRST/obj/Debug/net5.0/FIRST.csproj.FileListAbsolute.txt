@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\CODE\FIRST\bin\Debug\net5.0\FIRST.exe
+C:\Users\HP\Desktop\CODE\FIRST\bin\Debug\net5.0\FIRST.deps.json
+C:\Users\HP\Desktop\CODE\FIRST\bin\Debug\net5.0\FIRST.runtimeconfig.json
+C:\Users\HP\Desktop\CODE\FIRST\bin\Debug\net5.0\FIRST.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CODE\FIRST\bin\Debug\net5.0\FIRST.dll
+C:\Users\HP\Desktop\CODE\FIRST\bin\Debug\net5.0\ref\FIRST.dll
+C:\Users\HP\Desktop\CODE\FIRST\bin\Debug\net5.0\FIRST.pdb
+C:\Users\HP\Desktop\CODE\FIRST\obj\Debug\net5.0\FIRST.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CODE\FIRST\obj\Debug\net5.0\FIRST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CODE\FIRST\obj\Debug\net5.0\FIRST.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CODE\FIRST\obj\Debug\net5.0\FIRST.AssemblyInfo.cs
+C:\Users\HP\Desktop\CODE\FIRST\obj\Debug\net5.0\FIRST.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CODE\FIRST\obj\Debug\net5.0\FIRST.dll
+C:\Users\HP\Desktop\CODE\FIRST\obj\Debug\net5.0\ref\FIRST.dll
+C:\Users\HP\Desktop\CODE\FIRST\obj\Debug\net5.0\FIRST.pdb
+C:\Users\HP\Desktop\CODE\FIRST\obj\Debug\net5.0\FIRST.genruntimeconfig.cache
